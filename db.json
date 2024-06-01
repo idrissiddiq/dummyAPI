@@ -1,7 +1,7 @@
 {
     "inboxList": [
       {
-        "id": 1,
+        "inboxId": 1,
         "inboxType": "group",
         "title": "109220-Naturalization",
         "lastDate": "01/01/2021 19:10",
@@ -10,7 +10,7 @@
         "lastChat": "Please check this out!"
       },
       {
-        "id": 2,
+        "inboxId": 2,
         "inboxType": "direct",
         "title": "FastVisa Support",
         "lastDate": "01/06/2021 12:19",
@@ -19,8 +19,10 @@
         "lastChat": "Hey there! Welcome to your inbox."
       }
     ],
-    "inboxDetail/1": [                            
-        {
+    "inboxDetail": [
+      {
+        "1": [                            
+            {
                 "id" : 1,
                 "sender" : "Mary Hilda",
                 "message" : "Just Fill me in for his updates yea?",
@@ -55,7 +57,9 @@
                 "sender" : "Cameron Phillips",
                 "message" : "Hey there! Welcome to your inbox.",
                 "time" : "19:32"
-            }
+            }                                  
+        ]
+      }
     ],
     "profile": {
       "name": "typicode"
