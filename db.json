@@ -19,7 +19,7 @@
         "lastChat": "Hey there! Welcome to your inbox."
       }
     ],
-    "inboxDetail?id=1": [                            
+    "inboxDetail/1": [                            
         {
                 "id" : 1,
                 "sender" : "Mary Hilda",
