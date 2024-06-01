@@ -1,0 +1,46 @@
+{
+    "inboxList": [
+      {
+        "inboxId": 1,
+        "inboxType": "group",
+        "title": "109220-Naturalization",
+        "lastDate": "01/01/2021 19:10",
+        "member": 3,
+        "lstMember" : "Cameron Phillips",
+        "lastChat": "Please check this out!"
+      },
+      {
+        "inboxId": 2,
+        "inboxType": "group",
+        "title": "8405-Diana SALAZAR MUNGUIA",
+        "lastDate": "01/06/2021 12:19",
+        "member": 3,
+        "lstMember" : "Ellen",
+        "lastChat": "Hey, please read."
+      },
+      {
+        "inboxId": 3,
+        "inboxType": "direct",
+        "title": "FastVisa Support",
+        "lastDate": "01/06/2021 12:19",
+        "member": null,
+        "lstMember" : null,
+        "lastChat": "Hey there! Welcome to your inbox."
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
