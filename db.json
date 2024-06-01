@@ -1,29 +1,64 @@
 {
     "inboxList": [
       {
-        "id": 1,
+        "inboxId": 1,
         "inboxType": "group",
         "title": "109220-Naturalization",
         "lastDate": "01/01/2021 19:10",
         "member": 3,
-        "lstMember" : "Cameron Phillips",
+        "lastMember" : "Cameron Phillips",
         "lastChat": "Please check this out!"
       },
       {
-        "id": 2,
+        "inboxId": 2,
         "inboxType": "direct",
         "title": "FastVisa Support",
         "lastDate": "01/06/2021 12:19",
         "member": null,
-        "lstMember" : null,
+        "lastMember" : null,
         "lastChat": "Hey there! Welcome to your inbox."
       }
     ],
-    "comments": [
+    "inboxDetail": [
       {
-        "id": 1,
-        "body": "some comment",
-        "postId": 1
+        "1": [                            
+            {
+                "id" : 1,
+                "sender" : "Mary Hilda",
+                "message" : "Just Fill me in for his updates yea?",
+                "time" : "19:32"
+            },
+            {
+                "id" : 2,
+                "sender" : "Me",
+                "message" : "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+                "time" : "19:32"
+            },
+            {
+                "id" : 3,
+                "sender" : "Mary Hilda",
+                "message" : "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
+                "time" : "19:32"
+            },
+            {
+                "id" : 4,
+                "sender" : "Me",
+                "message" : "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary.",
+                "time" : "19:32"
+            },
+            {
+                "id" : 5,
+                "sender" : "Mary Hilda",
+                "message" : "Sure thing ,Claren.",
+                "time" : "19:32"
+            },
+            {
+                "id" : 6,
+                "sender" : "Cameron Phillips",
+                "message" : "Hey there! Welcome to your inbox.",
+                "time" : "19:32"
+            }                                  
+        ]
       },
       {
         "id": 2,
