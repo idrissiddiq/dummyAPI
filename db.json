@@ -21,7 +21,8 @@
     ],
     "inboxDetail": [
       {
-        "1": [                            
+        "id": "1",
+        "data": [                            
             {
                 "id" : 1,
                 "sender" : "Mary Hilda",
