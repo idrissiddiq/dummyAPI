@@ -7,7 +7,8 @@
         "lastDate": "01/01/2021 19:10",
         "member": 3,
         "lastMember" : "Cameron Phillips",
-        "lastChat": "Please check this out!"
+        "lastChat": "Please check this out!",
+        "status" : "unread"
       },
       {
         "id": 2,
@@ -16,7 +17,8 @@
         "lastDate": "01/06/2021 12:19",
         "member": null,
         "lastMember" : null,
-        "lastChat": "Hey there! Welcome to your inbox."
+        "lastChat": "Hey there! Welcome to your inbox.",
+        "status" : "read"
       }
     ],
     "inboxDetail": [
