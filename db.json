@@ -72,15 +72,7 @@
                 "status" : "unread",
                 "date" : "01/01/2021",
                 "time" : "19:32"
-            },
-            {
-                "id" : 7,
-                "sender" : "Cameron Phillips",
-                "message" : "Hey there! Welcome to your inbox.",
-                "status" : "unread",
-                "date" : "01/01/2021",
-                "time" : "19:32"
-            }   
+            }
         ]
       },
       {
