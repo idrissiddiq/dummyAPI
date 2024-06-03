@@ -130,6 +130,16 @@
             "deadline": "12/06/2021",
             "dueDate" : 2,
             "description" : "Closing off this case since this application has been cancelled. No one really understand how this case could possibly be cancelled. The options and the documents within this document were totally a guaranteed for a success!",
+            "bookmarks" : [
+                {
+                    "id" : 1,
+                    "name" : "Important ASAP"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Offline Meeting"
+                }
+            ],
             "status" : "done"
         },
         {
@@ -138,6 +148,7 @@
             "deadline": "14/06/2021",
             "dueDate" : 4,
             "description" : null,
+            "bookmarks" : null,
             "status" : "process"
         }
     ]
