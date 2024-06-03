@@ -128,6 +128,7 @@
             "id" : 1,
             "title" : "Close off Case #012920- RODRIGUES, Amiguel",            
             "deadline": "12/06/2021",
+            "targetDate" : "12/06/2021",
             "dueDate" : 2,
             "description" : "Closing off this case since this application has been cancelled. No one really understand how this case could possibly be cancelled. The options and the documents within this document were totally a guaranteed for a success!",
             "bookmarks" : [
@@ -146,6 +147,7 @@
             "id" : 2,
             "title" : "Set up documentation report for several Cases : Case 145443, Case 192829 and Case 182203",            
             "deadline": "14/06/2021",
+            "targetDate" : null,
             "dueDate" : 4,
             "description" : null,
             "bookmarks" : null,
