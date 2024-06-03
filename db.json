@@ -30,6 +30,8 @@
                 "sender" : "Mary Hilda",
                 "message" : "Just Fill me in for his updates yea?",
                 "status" : "read",
+                "replyTo" : null,
+                "replyMessage" : null,
                 "date" : "30/12/2020",
                 "time" : "19:32"
             },
@@ -38,6 +40,8 @@
                 "sender" : "You",
                 "message" : "No worries. It will be completed ASAP. I’ve asked him yesterday.",
                 "status" : "read",
+                "replyTo" : null,
+                "replyMessage" : null,
                 "date" : "30/12/2020",
                 "time" : "19:32"
             },
@@ -46,6 +50,8 @@
                 "sender" : "Mary Hilda",
                 "message" : "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
                 "status" : "read",
+                "replyTo" : null,
+                "replyMessage" : null,
                 "date" : "30/12/2020",
                 "time" : "19:32"
             },
@@ -54,6 +60,8 @@
                 "sender" : "You",
                 "message" : "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary.",
                 "status" : "read",
+                "replyTo" : null,
+                "replyMessage" : null,
                 "date" : "30/12/2020",
                 "time" : "19:32"
             },
@@ -62,7 +70,9 @@
                 "sender" : "Mary Hilda",
                 "message" : "Sure thing ,Claren.",
                 "status" : "read",
-                "date" : "01/01/2021",
+                "replyTo" : null,
+                "replyMessage" : null,
+                "date" : "30/12/2020",
                 "time" : "19:32"
             },
             {
@@ -70,9 +80,11 @@
                 "sender" : "Cameron Phillips",
                 "message" : "Hey there! Welcome to your inbox.",
                 "status" : "unread",
+                "replyTo" : null,
+                "replyMessage" : null,
                 "date" : "01/01/2021",
                 "time" : "19:32"
-            }
+            }                                  
         ]
       },
       {
@@ -83,6 +95,8 @@
                 "sender" : "FastVisa Support",
                 "message" : "Hey there. Welcome to your inbox! Contact us for more information and help about anything! We’ll send you a response as soon as possible.",
                 "status" : "read",
+                "replyTo" : null,
+                "replyMessage" : null,
                 "date" : "30/12/2020",
                 "time" : "19:32"
             },
@@ -91,6 +105,8 @@
                 "sender" : "You",
                 "message" : "No worries. It will be completed ASAP. I’ve asked him yesterday.",
                 "status" : "read",
+                "replyTo" : "astVisa Support",
+                "replyMessage" : "Hey there! Welcome to your inbox.",
                 "date" : "30/12/2020",
                 "time" : "19:32"
             },
@@ -99,6 +115,8 @@
                 "sender" : "FastVisa Support",
                 "message" : "Hey there! Welcome to your inbox.",
                 "status" : "read",
+                "replyTo" : null,
+                "replyMessage" : null,
                 "date" : "01/01/2021",
                 "time" : "19:32"
             }                                
