@@ -21,17 +21,12 @@ If you're using this repository directly, make sure Docker is installed.
 ```bash
 git clone https://github.com/idrissiddiq/dummyAPI.git
 cd dummyAPI
+```
 
 ### 2. Example Endpoints
 
-Depending on your `db.json`, some example endpoints might be:
-
-- `GET /users`
-- `GET /products`
-- `GET /orders/1`
-- `POST /feedback`
-
-All responses are served from the static `db.json` file.
+Depending on your `db.json`, you can visit https://my-json-server.typicode.com/<your-username>/<your-repo>
+For example: https://my-json-server.typicode.com/idrissiddiq/dummyAPI/inboxList
 
 ### 🛠️ Customize Your API
 
